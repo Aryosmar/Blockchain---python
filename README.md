@@ -1,5 +1,7 @@
 # Sistema de Blockchain
 
+Blockchain simples desenvolvida como parte do desafio proposto na trilha de aprendizado do programa de bolsas de Blockchain da Compass UOL.
+
 ## Pré-Requisitos
 
 Antes de executar a aplicação, você precisará dos seguintes pré-requisitos:
